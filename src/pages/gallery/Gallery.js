@@ -145,7 +145,7 @@ const Gallery = () => {
           return(
             <div className='pics' key={index}
              onClick={()=>getImg(item.imgSrc)}>
-                <img src={item.imgSrc} />
+                <img src={item.imgSrc} alt=""/>
             </div>
           )
 
