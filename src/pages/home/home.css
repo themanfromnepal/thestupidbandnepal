@@ -1,0 +1,71 @@
+.home{
+    background-image: url('./icon/TSBN.png');
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #000;
+    background-size: 50%;
+    color: #fff;
+    height:100vh;
+}
+/* Home-Section  */
+.home-section{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+/* Player Styling */
+.player-section{
+    width: 35%;
+}
+
+/* Event Styling */
+.event-section{
+    background-color: #000;
+    color: #fff;
+    padding: .5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: fit-content;
+}
+
+.intro {
+    color: red;
+}
+
+table, th, td{
+    border: 2px solid #fff;
+    border-collapse: collapse;
+}
+
+th, td{
+    text-align: center;
+    padding: 0.5rem 2rem;
+}
+
+@media (max-width: 991px){
+    .home-section{
+        flex-direction: column;
+    }
+
+    .player-section{
+        width: 70%;
+    }
+} 
+
+@media (max-width: 480px){
+    .home-section{
+        flex-direction: column;
+    }
+
+    .player-section{
+        width: 90%;
+    }
+} 

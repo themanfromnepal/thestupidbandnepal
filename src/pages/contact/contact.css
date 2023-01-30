@@ -1,0 +1,158 @@
+
+.contact-container h3{
+   text-align: center; 
+   margin: 1rem;
+   color: red;
+}
+
+
+.contact-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem 2rem 1rem;
+}
+
+.contact {
+    /* max-width: 400px; */
+    /* margin: 0 auto; */
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 2rem;
+  }
+
+  .contact label {
+    text-align: left;
+    display: block;
+  }
+
+  .contact input, textarea{
+    width: 80%;
+    padding: .5rem 1rem;
+    margin: .5rem 0;
+    display: block;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+  }
+
+  .contact button {
+    background: red;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+
+  .contact button:hover{
+    background: rgb(237, 103, 103);
+  }
+
+  .checkbox{
+    margin: 1rem 0;
+  }
+
+  .checkbox input[type=checkbox] +label{
+    display: block;
+    margin: .5em;
+    cursor: pointer;
+  }
+
+  .checkbox input[type=checkbox]{
+    display: none;
+  }
+
+  .checkbox input[type=checkbox] +label:before{
+    content: "\2713";
+    border: 0.1em solid #fff;
+    border-radius: 0.2em;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    padding: .15em .15em .35em .35em;
+    margin-right: .2em;
+    color: transparent;
+    
+  }
+
+  .checkbox input[type=checkbox]:checked +label:before{
+    background-color: #000;
+    color: #fff;
+    
+  }
+
+
+  .divider{
+    border-left: 2px solid #fff;
+    height: 400px;
+    margin: 2rem;
+  }
+
+  .social{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 3rem;
+  }
+
+  .social-link{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .social-link a{
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  
+
+
+  .social-link button{
+    font-size: 2.5rem;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    outline:none;
+  }
+
+
+  @media (max-width:991px){
+    .contact-container{
+      display: flex;
+      flex-direction: column;
+    }
+
+    .contact{
+      padding: 3rem;
+    }
+
+    .divider{
+      display: none;
+    }
+
+    .social-link{
+      gap:1rem;
+    }
+
+    .check-info{
+      font-size: .8rem;
+    }
+  }
+
+  @media (max-width: 441px){
+    .contact{
+      padding: 2rem;
+    }
+
+    .contact input, textarea{
+      width: 100%;
+    }
+  }

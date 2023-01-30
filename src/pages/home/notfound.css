@@ -1,0 +1,22 @@
+h1,h2,h3{
+    text-align: center;
+    margin:1rem;
+}
+
+h1{
+    color: red;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+button{
+    border: none;
+    outline: none;
+    background-color: #000;
+    font-size: 3rem;
+    color: white;
+}
