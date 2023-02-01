@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/thesupidbandnepal/static/css/main.e4d3abae.css",
+    "main.js": "/thesupidbandnepal/static/js/main.98759973.js",
+    "static/media/nischal.mp4": "/thesupidbandnepal/static/media/nischal.8018fbcc8ea083e7ab8a.mp4",
+    "static/media/Inspired.mp3": "/thesupidbandnepal/static/media/Inspired.c29d2bba5f50c5b5ddef.mp3",
+    "static/media/Nature.mp3": "/thesupidbandnepal/static/media/Nature.4634b2d338d32fc0cd43.mp3",
+    "static/media/pic_6.jpg": "/thesupidbandnepal/static/media/pic_6.8def8aa86c5de91fbc8a.jpg",
+    "static/media/pic_21.jpg": "/thesupidbandnepal/static/media/pic_21.35c5376caa3a691e9dd8.jpg",
+    "static/media/pic_5.jpg": "/thesupidbandnepal/static/media/pic_5.0102d1d45ea6d19051f1.jpg",
+    "static/media/pic_3.jpg": "/thesupidbandnepal/static/media/pic_3.17e6610509c543fe23b9.jpg",
+    "static/media/pic_2.jpg": "/thesupidbandnepal/static/media/pic_2.00713ca57ed09580e63d.jpg",
+    "static/media/pic_1.jpg": "/thesupidbandnepal/static/media/pic_1.5e5f026faee9a88188b4.jpg",
+    "static/media/pic_7.jpg": "/thesupidbandnepal/static/media/pic_7.05c9cad91a1408027a19.jpg",
+    "static/media/pic_4.jpg": "/thesupidbandnepal/static/media/pic_4.c22ee65d59d6c58deeb4.jpg",
+    "static/media/Rocker.mp3": "/thesupidbandnepal/static/media/Rocker.91e8cd3d1849ed0c2647.mp3",
+    "static/media/pic_19.jpg": "/thesupidbandnepal/static/media/pic_19.c9b9e0d4e89202f29d09.jpg",
+    "static/media/pic_15.jpg": "/thesupidbandnepal/static/media/pic_15.8e1a4aade00cc1b90a0f.jpg",
+    "static/media/pic_17.jpg": "/thesupidbandnepal/static/media/pic_17.2585dab86466b53a3677.jpg",
+    "static/media/pic_16.jpg": "/thesupidbandnepal/static/media/pic_16.58be398d527a67e0d74c.jpg",
+    "static/media/pic_18.jpg": "/thesupidbandnepal/static/media/pic_18.85bd4ae9a45d1fbb8ed8.jpg",
+    "static/media/pic_14.jpg": "/thesupidbandnepal/static/media/pic_14.def57d7111ae4bb49bd3.jpg",
+    "static/media/Lemmy-02.jpg": "/thesupidbandnepal/static/media/Lemmy-02.025b71d38edf0e993cf5.jpg",
+    "static/media/pic_11.jpg": "/thesupidbandnepal/static/media/pic_11.49df3b3474157f445b7f.jpg",
+    "static/media/pic_12.jpg": "/thesupidbandnepal/static/media/pic_12.09d68d873058132839a3.jpg",
+    "static/media/pic_9.jpg": "/thesupidbandnepal/static/media/pic_9.df8cb8d3bf5a9467a709.jpg",
+    "static/media/pic_10.jpg": "/thesupidbandnepal/static/media/pic_10.7ecfb86fc9f1ba7cc558.jpg",
+    "static/media/pic_8.jpg": "/thesupidbandnepal/static/media/pic_8.b3fefbdb0c2c3302e7b2.jpg",
+    "static/media/pic_20.jpg": "/thesupidbandnepal/static/media/pic_20.df43ac40c4871534890c.jpg",
+    "static/media/pic_23.jpg": "/thesupidbandnepal/static/media/pic_23.57920f621596cecc48fa.jpg",
+    "static/media/pic_22.jpg": "/thesupidbandnepal/static/media/pic_22.d5514959307a9ff6552e.jpg",
+    "static/media/pic_13.jpg": "/thesupidbandnepal/static/media/pic_13.9f91beee1da0bc31e60c.jpg",
+    "static/media/TSBN.png": "/thesupidbandnepal/static/media/TSBN.95123ad4aea63782957b.png",
+    "index.html": "/thesupidbandnepal/index.html",
+    "main.e4d3abae.css.map": "/thesupidbandnepal/static/css/main.e4d3abae.css.map",
+    "main.98759973.js.map": "/thesupidbandnepal/static/js/main.98759973.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4d3abae.css",
+    "static/js/main.98759973.js"
+  ]
+}
